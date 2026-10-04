@@ -26,4 +26,15 @@ require 'includes/header.php';
     </div> 
 </section> 
 
+<section class="section">
+    <div class="container">
+        <h2>Fokus Pembelajaran</h2>
+        <ul>
+            <li>Pengembangan Web Modern & Basis Data</li>
+            <li>Manajemen Sistem Informasi Berbasis Cloud</li>
+            <li>Praktik Versi Kontrol & Kolaborasi Tim dengan Git</li>
+        </ul>
+    </div>
+</section>
+
 <?php require 'includes/footer.php'; ?>
