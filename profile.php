@@ -22,7 +22,7 @@ require 'includes/header.php';
             <li><strong>Kolaborasi & Kolaboratif Codebase:</strong> Simulasi penanganan merge conflict, penggunaan repository remote GitHub, serta sinkronisasi tim (push/pull).</li>
         </ul>
 
-        <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.</div> 
+        <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum. </div> 
     </div> 
 </section> 
 
